@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZA</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>Asset Management ABAPs</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZA</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>&amp; &amp; &amp; &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZA</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Select form of display</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZA</ARBGB>
+     <MSGNR>123</MSGNR>
+     <TEXT>Please select Overtime code with attendance Type &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZA</ARBGB>
+     <MSGNR>124</MSGNR>
+     <TEXT>Do not select an overtime code with attendance type &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZA</ARBGB>
+     <MSGNR>125</MSGNR>
+     <TEXT>Please use ZUG_WARP profile for employee &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZA</ARBGB>
+     <MSGNR>126</MSGNR>
+     <TEXT>Please use a different profile for employee &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZA</ARBGB>
+     <MSGNR>135</MSGNR>
+     <TEXT>Authorization Check failed on &amp; selection</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZA</ARBGB>
+     <MSGNR>136</MSGNR>
+     <TEXT>Only Part time employees are eligible for attendance &amp;</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>

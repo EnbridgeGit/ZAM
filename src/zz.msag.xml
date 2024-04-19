@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZZ</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>Materials Management ABAPs</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZZ</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Plant &amp; does not exist</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZZ</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Plant &amp; has no MRP groups</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZZ</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Asset value date must equal today&apos;s date</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZZ</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Cost centre 10202 must be used for company CGO</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZZ</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Cost centre 20310 must be used for company UGL</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZZ</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Check your dates.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZZ</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Please ensure that project number is entered in text field</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZZ</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>If using &quot;Amount posted&quot; field, also enter quantity if applicable</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZZ</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>Value must be between 1 and 12.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZZ</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>Plant &amp; is not an Asset Accounting Plant.  Use &quot;X...&quot; (or Y or Z...).</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZZ</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>Check your date</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZZ</ARBGB>
+     <MSGNR>012</MSGNR>
+     <TEXT>Select plant from &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZZ</ARBGB>
+     <MSGNR>013</MSGNR>
+     <TEXT>Select only one sort type</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZZ</ARBGB>
+     <MSGNR>014</MSGNR>
+     <TEXT>Select sort type</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>

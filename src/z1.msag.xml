@@ -1,0 +1,504 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>Z1</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>Messages for validations/substitutions</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>xxx</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Validation Info: $ $ $ $</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Validation test $ $ $ $</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Please fill the Reference Field, This is required for Document Parking</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>WBS is used as an allocation element only</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Posting date (&amp;) and document date (&amp;) not identical</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Acquisition Year $ is not validated for posting</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>Validation Warning:  $ is not an acceptable Global Co for this posting</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>GGGGGGGGGGGGGG</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>Ledger Specific Doc Types Must be Used w/Ldg Grp (FB01L/FB50L)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>No cash discount allowed for document type KR</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>012</MSGNR>
+     <TEXT>Intercompany account requires trading partner</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>013</MSGNR>
+     <TEXT>Click on the detail button to enter profitability segment details dummy</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>014</MSGNR>
+     <TEXT>For I/C TRANS APayables USE DOCTYPE ZB/ZA(FI-Use IR For I/C Receivables)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>015</MSGNR>
+     <TEXT>Material number &amp; not allowed for this account.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>016</MSGNR>
+     <TEXT>Doc Type not allowed for Lead Ledger (Ledger Specific Entry Only)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>017</MSGNR>
+     <TEXT>GL acct &amp; only with cost ctr 20310,29775, 29777,U-20310 or WBS elem.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>018</MSGNR>
+     <TEXT>GL acct &amp; can only be used with a cost of goods cc/io or WBS element</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>019</MSGNR>
+     <TEXT>GL acct &amp; can only be used with a O&amp;M cc/io or capital io/wbs element</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>020</MSGNR>
+     <TEXT>GL Acct &amp; can only be used with a Capital Expenditure Internal Order</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>021</MSGNR>
+     <TEXT>GL Acct &amp; CANNOT be used with a Capital Expenditure Internal Order</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>022</MSGNR>
+     <TEXT>Doc Type SV is only Valid for Accrual Postings</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>023</MSGNR>
+     <TEXT>G/L-430014 can only be used with Either IO-314123 OR CCentre-20319</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>024</MSGNR>
+     <TEXT>Doc Types &apos;SV/LV/NV&apos; are only valid with Transaction FBS1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>025</MSGNR>
+     <TEXT>For Lead Ledger Only Accruals, Use Doc Type LV</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>026</MSGNR>
+     <TEXT>Asset class $ is not valid with cost center $</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>027</MSGNR>
+     <TEXT>Company code $ permits only document type $</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>028</MSGNR>
+     <TEXT>Company code $ does not permit document type $</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>029</MSGNR>
+     <TEXT>Document Type not Allowed for Non-Lead Ledger (Use with FB01L/FB50L)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>030</MSGNR>
+     <TEXT>Division In Asset Does Not Equal Division in Plant Code</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>031</MSGNR>
+     <TEXT>CGO Divisions In UGL Must Use Cost Centre 10202</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>032</MSGNR>
+     <TEXT>UGL Divisions In UGL Must Use Cost Centre 20310 / U-20310</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>033</MSGNR>
+     <TEXT>Plant Codes For Assets Must Start With X, Y or Z</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>034</MSGNR>
+     <TEXT>Cost Centre 10202 or 20310 or U-20310 must be used For Plant Code X162</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>035</MSGNR>
+     <TEXT>GL acct &amp; cannot be used with this cost centre</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>036</MSGNR>
+     <TEXT>Material Code not allowed for this account</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>037</MSGNR>
+     <TEXT>GL Acct &amp; can only be used with cost centre 20044</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>038</MSGNR>
+     <TEXT>EMPIRE plant code must have cost centre 46001 or 46002</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>039</MSGNR>
+     <TEXT>EMPIRE assets must use plant code &apos;XEMP&apos;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>040</MSGNR>
+     <TEXT>Cost Centre 10202 or 20310 must be used</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>041</MSGNR>
+     <TEXT>Cost Centre U-20310 must be used</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>042</MSGNR>
+     <TEXT>For Non-Lead Ledger Accruals, use Doc Type NV</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>043</MSGNR>
+     <TEXT>Account is to be used with Non-Lead Ledger Only</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>044</MSGNR>
+     <TEXT>Cost Centre 29777 must be used for Asset Class 49500</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>045</MSGNR>
+     <TEXT>Use Sub 0 only for Main Assets</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>046</MSGNR>
+     <TEXT>Cost Centre 29775 must be used for this asset class</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>047</MSGNR>
+     <TEXT>G/L account &amp; can only be used with WBS elements or Internal Orders</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>048</MSGNR>
+     <TEXT>NATGAS is inventory related;  Use Sales Order to Process</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>049</MSGNR>
+     <TEXT>Doc Types KL,KN,SP,SV,PY or Y* must be used with Salary/Wage GL Accounts</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>050</MSGNR>
+     <TEXT>For Vendor Group &amp; the Authorization Group field must be &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>051</MSGNR>
+     <TEXT>Doc Type &apos;SB&apos; is reserved for Intercompany Interfaces</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>052</MSGNR>
+     <TEXT>WBS number does not align with Project number</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>053</MSGNR>
+     <TEXT>For Parking of Manual FI JE&apos;s only Doc Type SA/SV/IR/PY are allowed</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>054</MSGNR>
+     <TEXT>Doc Types &apos;SC&apos;, &apos;DC&apos;, and &apos;TB&apos; are allowed for this transaction</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>055</MSGNR>
+     <TEXT>For Foreign Curr. Valuations (F-05), Only Use FC Document Type</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>056</MSGNR>
+     <TEXT>Transaction FB01/F-02 can only be used with Batch Processing</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>057</MSGNR>
+     <TEXT>Cost Centre 20310 Cannot be used with Cost of Gas Accounts</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>058</MSGNR>
+     <TEXT>For Ariba vendors, MIRO is not allowed; to park, use MIR7</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>059</MSGNR>
+     <TEXT>Payment Method is required</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>060</MSGNR>
+     <TEXT>CGO Divisions In UGL Must Use Cost Centre 10202/29777</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>061</MSGNR>
+     <TEXT>G/L account can only be used with WBS elements</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>062</MSGNR>
+     <TEXT>G/L account can only be used with I0 400002 or 400061</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>063</MSGNR>
+     <TEXT>Posting to this GL account &apos;&amp;&apos; is restricted to specific user</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>064</MSGNR>
+     <TEXT>The WBS contains 2222 or 2221 number, is not allowed to post in trans</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>065</MSGNR>
+     <TEXT>Document date should not be older than 01.01.2000.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>066</MSGNR>
+     <TEXT>The Est. Start date, Est. Fin date and Est. In-Srv date are mandatory</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>067</MSGNR>
+     <TEXT>Fiscal year assignment YYXXXX missing for account &amp; in line item &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>068</MSGNR>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>069</MSGNR>
+     <TEXT>For EGD company postings, alternative COA ZFS account needs assignment</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1</ARBGB>
+     <MSGNR>070</MSGNR>
+     <TEXT>For EGD Company Postings,&lt;account&gt; is reserved for system posting only.</TEXT>
+    </T100>
+   </T100>
+   <LONGTEXTS>
+    <item>
+     <DOKIL>
+      <ID>NA</ID>
+      <OBJECT>Z1053</OBJECT>
+      <LANGU>E</LANGU>
+      <TYP>E</TYP>
+      <VERSION>0002</VERSION>
+      <MASTERLANG>X</MASTERLANG>
+      <TXTLINES>00005</TXTLINES>
+     </DOKIL>
+     <HEAD>
+      <TDOBJECT>DOKU</TDOBJECT>
+      <TDNAME>Z1053</TDNAME>
+      <TDID>NA</TDID>
+      <TDSPRAS>E</TDSPRAS>
+      <TDFORM>S_DOCU_SHOW</TDFORM>
+      <TDSTYLE>S_DOCUS1</TDSTYLE>
+      <TDVERSION>00002</TDVERSION>
+      <TDLINESIZE>072</TDLINESIZE>
+     </HEAD>
+     <LINES>
+      <TLINE>
+       <TDFORMAT>U1</TDFORMAT>
+       <TDLINE>&amp;CAUSE&amp;</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDFORMAT>AS</TDFORMAT>
+       <TDLINE>You have entered a Document Type that is not availble for this</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDLINE>Transaction</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDFORMAT>*</TDFORMAT>
+      </TLINE>
+      <TLINE>
+       <TDFORMAT>U1</TDFORMAT>
+       <TDLINE>&amp;SYSTEM_RESPONSE&amp;</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDFORMAT>AS</TDFORMAT>
+       <TDLINE>Only Document Types SA, SV, IR, and PY are allowed in the parking of</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDLINE>manual Journal Entries</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDFORMAT>*</TDFORMAT>
+      </TLINE>
+      <TLINE>
+       <TDFORMAT>U1</TDFORMAT>
+       <TDLINE>&amp;WHAT_TO_DO&amp;</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDFORMAT>AS</TDFORMAT>
+       <TDLINE>Change your document type to one of the following options above.</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDFORMAT>*</TDFORMAT>
+      </TLINE>
+      <TLINE>
+       <TDFORMAT>U1</TDFORMAT>
+       <TDLINE>&amp;SYS_ADMIN&amp;</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDFORMAT>AS</TDFORMAT>
+      </TLINE>
+     </LINES>
+    </item>
+   </LONGTEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
